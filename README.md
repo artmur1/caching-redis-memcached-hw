@@ -35,7 +35,11 @@
 
 ![alt text](https://github.com/artmur1/caching-redis-memcached-hw/blob/main/zad3-1-Murchin.png)
 
+Первое значение записал с ttl=5. Пока вводил команду get key, значение уже удалилось. Поэтому потом вводил значения с ttl=10.
+
 ![alt text](https://github.com/artmur1/caching-redis-memcached-hw/blob/main/zad3-2-Murchin.png)
+
+Тут видно, что всего было записано 9 значений, но все они уже удалились.
 
 ### Задание 4. Запись данных в Redis
 Запишите в Redis несколько ключей с любыми именами и значениями.
@@ -44,3 +48,5 @@
 ### Решение 4
 
 ![alt text](https://github.com/artmur1/caching-redis-memcached-hw/blob/main/zad4-1-Murchin.png)
+
+По отдельности cмог вывести, а разом не получилось.
