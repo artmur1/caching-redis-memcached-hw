@@ -25,11 +25,17 @@
 
 ### Решение 2
 
+![alt text](https://github.com/artmur1/caching-redis-memcached-hw/blob/main/zad2-systemctl-status-memcached-Murchin.png)
+
 ### Задание 3. Удаление по TTL в Memcached
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.
 
 Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.
 ### Решение 3
+
+![alt text](https://github.com/artmur1/caching-redis-memcached-hw/blob/main/zad3-1-Murchin.png)
+
+![alt text](https://github.com/artmur1/caching-redis-memcached-hw/blob/main/zad3-2-Murchin.png)
 
 ### Задание 4. Запись данных в Redis
 Запишите в Redis несколько ключей с любыми именами и значениями.
@@ -37,3 +43,4 @@
 Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
 ### Решение 4
 
+![alt text](https://github.com/artmur1/caching-redis-memcached-hw/blob/main/zad4-1-Murchin.png)
